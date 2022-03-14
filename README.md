@@ -11,5 +11,5 @@
 - JavaScript(Vue.js, React.js, Node.js, TypeScript)
 - Swift(SwiftUI, Combine) 
 
-### 📖 Detailed Profile & BLOG
-https://techkinoko.com/profile/
+### 📖 Detailed Profile
+https://techkinoko.com

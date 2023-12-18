@@ -6,10 +6,7 @@
 </p>
 
 ### 💻 Favorite Languages
-- Java(Spring Boot)
 - PHP(Laravel)
 - JavaScript(Vue.js, React.js, Node.js, TypeScript)
 - Swift(SwiftUI, Combine) 
-
-### 📖 Detailed Profile
-https://techkinoko.com
+- Java(Spring Boot)
